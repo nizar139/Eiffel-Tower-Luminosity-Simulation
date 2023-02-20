@@ -10,7 +10,7 @@ The goal of the project is to design the lighting of an Eiffel Tower in Eiffel T
 ## folders and files :
 ### app (Me): 
 the application was developed using reactjs. it consists of a single page composed of an input text to enter the IP address (it is the same as the IP adress of the laptop were the srvhttp code is running) of the server and buttons that allows to make http post requests.
-Note : The microcontroller, the srvhttp and the application must be on the same network.
+* Note : The microcontroller, the srvhttp and the application must be on the same network.
 
 ### LEDs (Abdennacer Badaoui):
 Contains the code to reproduce the flickering effect of the Eiffel Tower. 
